@@ -33,7 +33,7 @@ It is the successor to the **TrackML** geometry, built to support modern R&D in:
 - 🤖 **End-to-end ML** — particle flow, jet tagging, low-level event reconstruction
 - 📐 **Algorithm benchmarking** — a stable, shared baseline across the community
 
-It is the reference geometry for [**ACTS**](https://acts.readthedocs.io) and the foundation of the [**ColliderML**](https://colliderml.com) benchmark dataset.
+It is the reference geometry for [**ACTS**](https://acts-project.github.io) and the foundation of the [**ColliderML**](https://colliderml.com) benchmark dataset.
 
 ---
 
