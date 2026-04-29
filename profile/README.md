@@ -158,8 +158,6 @@ detector, trackingGeometry, decorators = getOpenDataDetector(
 
 Pre-tuned configuration files are provided for digitization (`odd-digi-smearing-config.json`) and seeding (`odd-seeding-config.json`).
 
-→ Full walkthrough: [ACTS — full chain ODD example](https://acts.readthedocs.io/en/latest/examples/full_chain_odd.html)
-
 ---
 
 ## 🎨 Branding
@@ -186,20 +184,10 @@ If you use the ODD in published work, please cite it. Suggested references:
 
 ## 🤝 Contributing & Community
 
-The ODD lives at [**gitlab.cern.ch/acts/OpenDataDetector**](https://gitlab.cern.ch/acts/OpenDataDetector). Contributions, issues, and merge requests are very welcome — particularly:
+The ODD lives at [**github.com/OpenDataDetector/OpenDataDetector**](https://github.com/OpenDataDetector/OpenDataDetector). Contributions, issues, and merge requests are very welcome — particularly:
 
 - Subdetector refinements (muon system, timing layers)
 - Material map improvements
 - New benchmark scenarios for ColliderML releases
-- Tooling for non-ACTS users (Key4hep, DUNE-style stacks, custom frameworks)
 
-Discussion happens in the ACTS Mattermost channels and the connecting-the-dots community.
-
----
-
-<div align="center">
-
-**Built by and for the HEP reconstruction community.**
-*A shared baseline so we can stop arguing about geometry and start comparing algorithms.*
-
-</div>
+Discussion happens in the ACTS Mattermost channels, and in [GitHub discussions](https://github.com/orgs/OpenDataDetector/discussions)
