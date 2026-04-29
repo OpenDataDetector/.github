@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/license-MPL--2.0-blue.svg)](LICENSE)
 [![DD4hep](https://img.shields.io/badge/DD4hep-compatible-success)](https://dd4hep.web.cern.ch/dd4hep/)
-[![ACTS](https://img.shields.io/badge/ACTS-integrated-orange)](https://acts.readthedocs.io)
+[![ACTS](https://img.shields.io/badge/ACTS-integrated-orange)](https://acts-project.github.io)
 [![Geant4](https://img.shields.io/badge/Geant4-ready-9cf)](https://geant4.web.cern.ch)
 [![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2B-00599C?logo=cplusplus)](https://isocpp.org/)
 
