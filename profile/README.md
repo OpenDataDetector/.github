@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logos/odd_tech_light.png" alt="Open Data Detector" width="520" />
+<img src="images/odd_tech_light.svg" alt="Open Data Detector" width="520" />
 
 # The Open Data Detector
 
