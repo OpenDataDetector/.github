@@ -166,9 +166,9 @@ Logo assets live under [`logos/`](logos/).
 
 | Variant | Use case |
 |---|---|
-| <img src="logos/odd_tech_light.png" alt="ODD tech light" width="220" /> | **Tech / light** — high-contrast treatment for documentation, slides, and print |
-| <img src="logos/odd_retro_80s.png" alt="ODD retro 80s" width="220" /> | **Retro / synthwave** — neon lockup for informal or campaign-style use |
-| <img src="logos/odd_console_data.png" alt="ODD console data" width="220" /> | **Console / data** — terminal-style treatment for tooling, demos, and hacker-lab contexts |
+| <img src="images/odd_tech_light.svg" alt="ODD tech light" width="220" /> | **Tech / light** — high-contrast treatment for documentation, slides, and print |
+| <img src="images/odd_retro_80s.png" alt="ODD retro 80s" width="220" /> | **Retro / synthwave** — neon lockup for informal or campaign-style use |
+| <img src="images/odd_console_data.png" alt="ODD console data" width="220" /> | **Console / data** — terminal-style treatment for tooling, demos, and hacker-lab contexts |
 
 ---
 
